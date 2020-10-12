@@ -1,12 +1,12 @@
-# A basic app with firebase realtime database in kotin
+# A basic app with firebase realtime database in kotlin
 
-This is basic app created with kotin which implements firebase realtime database.
+This is basic app created with kotlin which implements firebase realtime database.
 
 ## Software Used
  * Android Studio
  
 ## Language Used
- * Kotin
+ * Kotlin
 
 ## Resources of the workshop
 
